@@ -1,3 +1,3 @@
 # Numerki
 
-Repozytorium stworzone do tworzenia bibliotek numerycznyc na zajęcia
+Repozytorium stworzone do tworzenia bibliotek numerycznych na zajęcia
